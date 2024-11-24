@@ -554,7 +554,7 @@
     "rubin": {
         "source": "https://arxiv.org/abs/1210.1616",
         "elevation": 2662.75,
-        "name": "Rubin Observatory",
+        "name": "Simonyi Survey Telesope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": -30.244633333333333,
@@ -564,13 +564,17 @@
         "aliases": [
              "LSST",
              "LSST 8.4m",
-             "Rubin"
+             "Rubin",
+             "rubin_sst",
+             "rubin_simonyi",
+             "Simonyi Survey Telescope",
+             "Rubin:Simonyi"
         ]
     },
     "rubin_aux": {
         "source": "https://arxiv.org/abs/1210.1616",
         "elevation": 2647,
-        "name": "Rubin AuxTel",
+        "name": "Rubin Auxiliary Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": -30.244797222222225,
@@ -579,7 +583,11 @@
         "timezone": "Chile/Continental",
         "aliases": [
              "LSST 1.4m",
-             "LSST AuxTel"
+             "LSST AuxTel",
+             "Rubin:1.2m",
+             "Rubin Auxiliary Telescope",
+             "Rubin AuxTel",
+             "rubin_auxtel"
         ]
     },
     "irtf": {
